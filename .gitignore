@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 环境
+.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# model / large files（如果不用 git-lfs）
+*.pt
+*.pth
+*.onnx
+*.bin
+
+# temp
+tmp/
+temp/
